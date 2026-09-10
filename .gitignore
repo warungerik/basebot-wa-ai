@@ -1,7 +1,0 @@
-node_modules/
-auth/
-.env
-*.log
-baileys_store.json
-.DS_Store
-package-lock.json
