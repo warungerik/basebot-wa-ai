@@ -9,9 +9,8 @@ Bot WhatsApp berbasis Baileys dan Node.js dengan dukungan multi-provider LLM ser
 </br>
 > https://groq.com/
 </br>
-</br>
 > https://poolside.ai/
-
+</br>
 ## Struktur Direktori
 
 ```text
