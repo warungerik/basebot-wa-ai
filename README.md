@@ -6,7 +6,9 @@
 
 Bot WhatsApp berbasis Baileys dan Node.js dengan dukungan multi-provider LLM serta memori percakapan aktif.
 > https://b.ai/
+</br>
 > https://groq.com/
+</br>
 > https://poolside.ai/
 ---
 
