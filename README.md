@@ -8,15 +8,6 @@ Bot WhatsApp berbasis Baileys dan Node.js dengan dukungan multi-provider LLM ser
 
 ---
 
-## Modul & Kemampuan
-
-- **Obrolan Langsung**: Respon pesan langsung tanpa prefix di chat pribadi. Respon otomatis di grup saat mention atau reply.
-- **Memori Konteks**: Simpan riwayat chat sliding-window FIFO per pengguna. Hapus riwayat lewat pesan `reset` atau `clear`.
-- **Multi-Provider LLM**: Dukungan langsung untuk Poolside AI, Groq, dan B.AI.
-- **Proteksi Akun**: Tolak panggilan masuk otomatis dan pulihkan sesi jika terputus.
-
----
-
 ## Struktur Direktori
 
 ```text
@@ -28,8 +19,6 @@ basebot/
 ├── config.js               # Konfigurasi runtime aplikasi
 ├── index.js                # Socket Baileys dan routing pesan
 ├── package.json            # Dependensi dan skrip proyek
-└── test/
-    └── bot.test.js         # Pengujian unit otomatis
 ```
 
 ---
@@ -80,16 +69,6 @@ BAI_MODEL=glm-5.3-flash
 
 ```bash
 npm start
-```
-
-Masukkan 8 digit kode pairing dari terminal ke WhatsApp ponsel (**Perangkat Tertaut** > **Tautkan Perangkat** > **Tautkan dengan nomor telepon saja**).
-
-### 4. Pengujian
-
-Jalankan pengujian unit:
-
-```bash
-npm test
 ```
 
 ---
