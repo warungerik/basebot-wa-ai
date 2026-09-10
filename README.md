@@ -14,7 +14,6 @@ Bot WhatsApp berbasis Baileys dan Node.js dengan dukungan multi-provider LLM ser
 basebot/
 ├── .env                    # Variabel environment dan kredensial API
 ├── .env.example            # Template konfigurasi environment
-├── .gitignore              # Berkas yang diabaikan Git
 ├── ai.js                   # Pemrosesan AI dan memori percakapan
 ├── config.js               # Konfigurasi runtime aplikasi
 ├── index.js                # Socket Baileys dan routing pesan
