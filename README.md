@@ -5,7 +5,9 @@
 [![Baileys](https://img.shields.io/badge/Baileys-v7.x-25D366?logo=whatsapp)](https://github.com/WhiskeySockets/Baileys)
 
 Bot WhatsApp berbasis Baileys dan Node.js dengan dukungan multi-provider LLM serta memori percakapan aktif.
-
+> https://b.ai/
+> https://groq.com/
+> https://poolside.ai/
 ---
 
 ## Struktur Direktori
