@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warungerik/basebot-wa-ai.git"
+  },
   "scripts": {
     "start": "npm install && node index.js",
     "test": "node --test"
