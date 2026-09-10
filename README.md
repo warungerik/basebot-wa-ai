@@ -563,7 +563,13 @@ Jika bot spam di trigger, tambahkan delay:
 Edit `ai.js` di handleAI function untuk tambahkan delay sebelum send message.
 
 ---
+## Support Pengembangan
 
-Made with care by Warungerik (https://warungerik.com)
+Jika project ini membantu Anda, pertimbangkan untuk memberikan dukungan:
+
+<a href="https://warungerik.com/payment" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+Made with care by Warungerik https://warungerik.com
 
 Jika project ini bermanfaat, jangan lupa beri star di repository!
